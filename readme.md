@@ -12,3 +12,4 @@ You can [go here](https://www.hackerrank.com/domains/algorithms) to start your j
 1. Simple array sum
 2. Compare the triplets
 3. A very big sum
+4. Diagonal difference
