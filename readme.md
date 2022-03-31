@@ -16,3 +16,4 @@ You can [go here](https://www.hackerrank.com/domains/algorithms) to start your j
 5. Plus minus
 6. Staircase
 7. Mini-max sum
+8. Birthday cake candles
