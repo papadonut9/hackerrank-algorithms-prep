@@ -14,3 +14,4 @@ You can [go here](https://www.hackerrank.com/domains/algorithms) to start your j
 3. A very big sum
 4. Diagonal difference
 5. Plus minus
+6. Staircase
