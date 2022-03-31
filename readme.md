@@ -17,3 +17,4 @@ You can [go here](https://www.hackerrank.com/domains/algorithms) to start your j
 6. Staircase
 7. Mini-max sum
 8. Birthday cake candles
+9. Time conversion
