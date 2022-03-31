@@ -8,4 +8,5 @@ You can [go here](https://www.hackerrank.com/domains/algorithms) to start your j
 
 ---
 
-1. Solve me first
+0. Solve me first
+1. Simple array sum
